@@ -43,10 +43,10 @@ I read and respond to you at a time that works for me, I turn off my notificatio
 
 Please don't feel like you can't message me at 'odd' hours because you think I might feel pressured to read or respond, if I don't want to, I won't.
 
-If something is urgent -- phone call
-If it's a difficult or crucial (e.g. feedback) conversation -- my first preference is face-to-face, followed by video, followed by phone call
-If it's something you can wait an hour or on -- private message or @mention in Slack
-If it's something you can wait a day or three on -- email
+- If something is urgent -- phone call
+- If it's a difficult or crucial (e.g. feedback) conversation -- my first preference is face-to-face, followed by video, followed by phone call
+- If it's something you can wait an hour or on -- private message or @mention in Slack
+- If it's something you can wait a day or three on -- email
 
 Sometimes I can forget when you message me if I read it and got distracted by something else (and the notification disappears). Please don't think I'm ignoring you, I just forgot. Please ping me again.
 
