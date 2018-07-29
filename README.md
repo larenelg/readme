@@ -43,6 +43,7 @@ I read and respond to you at a time that works for me, I turn off my notificatio
 
 Please don't feel like you shouldn't message me at 'odd' hours because you think I might feel pressured to read or respond, if I don't want to, I won't.
 
+Preferred comms methods
 - if something is urgent - phone call
 - if it's a difficult or crucial (e.g. feedback) conversation - my first preference is face-to-face, followed by video, followed by phone call
 - if it's something you can wait an hour or on - private message or @mention in Slack
