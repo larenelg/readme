@@ -90,7 +90,7 @@ I sometimes blush a lot, it doesn't mean I'm embarrassed or hiding something or 
 
 If I find things hard to say in person for whatever reason (I couldn't phrase something the right way on-the-spot, or I wasn't able to think it through enough) I will type up my thoughts, and send them to you, usually in an overly verbose giant wall of text. Or I will ask to catch up later.
 
-I don't deal well with indecision and wasting too much time going back-and-forth, I will jump in and make a decision (or pretend to) to get things moving.
+I don't deal well with indecision, if the group takes too long to decide on a thing, I will jump in and make a decision to get things moving.
 
 I will always tell you if you have food in your teeth, I hope you'll do the same for me.
 
