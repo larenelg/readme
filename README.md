@@ -96,3 +96,25 @@ I don't deal well with indecision, if the group takes too long to decide on a th
 I will always tell you if you have food in your teeth, I hope you'll do the same for me.
 
 If you notice any other quirks, please tell me and I will list them here. I'm a pretty big weirdo sometimes.
+
+## grumpy
+
+I'm rarely emotional, therefore also rarely grumpy. But it might be good for you to know what things do make me grumpy.
+
+How will you know if I'm grumpy?
+
+- I will probably say "I'm grumpy" or "I'm hungry"
+- I speak really fast (this is usually hungry grumpy)
+
+Me going quiet in a conversation does *not* mean I'm grumpy, it means I'm thinking, or I don't have anything valuable to add, or I can't find a good time to interject without being rude
+
+What are the possible (less obvious) causes of my grumpiness?
+
+- I'm hungry
+- When balls are dropped on communication
+- When someone doesn't respect another person's time
+- When someone is counting on another person, and is let down by them
+- When people blame others too much for their problems
+- When people lack self-awareness and are abrasive for no apparent reason
+
+I am not perfect and can accidentally do any of the above things. Life happens, but generally I won't trip up too many times.
