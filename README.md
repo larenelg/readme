@@ -120,4 +120,5 @@ Me going quiet on Slack also does *not* necessarily mean I'm grumpy. It usually 
 How can you help me if I'm grumpy
 
 - send me cute gifs of doggos
-- maybe, ask if I need help
+- suggest we go get coffee and a snack
+- ask if I need a hand with anything, or just wanna chat
