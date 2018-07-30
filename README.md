@@ -111,8 +111,13 @@ I don't usually get grumpy, but when I do, here are probable reasons why I'm gru
 How will you know if I'm grumpy?
 
 - I will probably say "I'm grumpy" or "I'm hungry"
-- I speak really fast, and matter-of-factly
+- I speak really fast, and matter-of-factly, and seem impatient
 
-Me going quiet in a conversation does *not* mean I'm grumpy, it means I'm thinking, or I don't have anything valuable to add, or I can't find a good time to add to the conversation without being rude. If I'm grumpy I will be more likely to do a bad habit, like interrupt or talk over someone.
+Me going quiet in a conversation does *not* mean I'm grumpy, it means I'm thinking, or I don't have anything valuable to add, or I can't find a good time to add to the conversation without being rude. If I'm grumpy I will be more likely to do a bad habit, like interrupt or talk over someone - related to feeling impatient.
 
 Me going quiet on Slack also does *not* necessarily mean I'm grumpy. It usually means I'm eating, or looking for food, or really focused on a task. If you think I might be grumpy, just ask :)
+
+How can you help me if I'm grumpy
+
+- send me cute gifs of doggos
+- maybe, ask if I need help
