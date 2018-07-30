@@ -96,3 +96,23 @@ I don't deal well with indecision, if the group takes too long to decide on a th
 I will always tell you if you have food in your teeth, I hope you'll do the same for me.
 
 If you notice any other quirks, please tell me and I will list them here. I'm a pretty big weirdo sometimes.
+
+## grumpy cat
+
+I don't usually get grumpy, but when I do, here are probable reasons why I'm grumpy:
+
+- I'm hungry
+- I'm working on something that doesn't add any value, or that I am not convinced is a valuable thing to be working on
+- a meeting starts without a clear objective, or ends without clear next steps
+- priorities are unclear and we can't get the information we need to make them clear
+- my expectations are managed badly, and simple comms could have saved a lot of heartache
+- something takes me way too long, or I can't solve it, and I didn't have the self-discipline to pull myself out of it, or ask for help, earlier
+
+How will you know if I'm grumpy?
+
+- I will probably say "I'm grumpy" or "I'm hungry"
+- I speak really fast (this is usually hungry grumpy)
+
+Me going quiet in a conversation does *not* mean I'm grumpy, it means I'm thinking, or I don't have anything valuable to add, or I can't find a good time to add to the conversation without being rude
+
+Me going quiet on Slack also does *not* necessarily mean I'm grumpy. It usually means I'm eating, or looking for food, or really focused on a task.
